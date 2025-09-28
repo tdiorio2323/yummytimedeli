@@ -3,7 +3,7 @@
 ## Project Overview
 Yummy Time Deli website project located at:
 **2142 Forest Avenue, Staten Island, NY 10303**
-Phone: **718-887-0178**
+Phone: **(718)-887-0178**
 
 ## Key Information
 - Family-owned deli specializing in fresh sandwiches, breakfast, coffee, and tacos

@@ -53,7 +53,7 @@ yummytimedeli/
 ### Phase 3 — Google Business Profile
 - [ ] Verify Google My Business listing for:
   `2142 Forest Avenue, Staten Island, NY 10303`
-  Phone: `718-887-0178`
+  Phone: `(718)-887-0178`
 - [ ] Upload store photos + hours.
 - [ ] Add website link (after deployment).
 
