@@ -10,6 +10,12 @@ Phone: **718-887-0178**
 - Target: Local customers + delivery apps (Grubhub, DoorDash, UberEats)
 - Focus: Mobile-first, fast loading, easy ordering
 
+## Brand Assets
+- **Logo**: `/public/assets/images/yummy-time-deli-logo.png` (1024x1024 PNG)
+  - Cheerful design with smiling chef face, fork/knife, circular badge format
+  - Colors: Yellow/gold smiley, white text on dark background
+  - Perfect for website headers, social media, and print materials
+
 ## Development Guidelines
 - Use modern, clean design with food-focused imagery
 - Ensure mobile responsiveness for on-the-go customers
