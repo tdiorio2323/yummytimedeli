@@ -1,0 +1,28 @@
+{
+  "name": "yummytimedeli",
+  "version": "1.0.0",
+  "description": "Yummy Time Deli digital presence project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Development server not configured yet'",
+    "build": "echo 'Build process not configured yet'",
+    "start": "echo 'Start command not configured yet'"
+  },
+  "keywords": [
+    "deli",
+    "restaurant",
+    "staten-island",
+    "food",
+    "website"
+  ],
+  "author": "Tyler DiOrio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+file:///Users/tylerdiorio/yummytimedeli/.git"
+  },
+  "bugs": {
+    "url": "file:///Users/tylerdiorio/yummytimedeli/issues"
+  },
+  "homepage": "file:///Users/tylerdiorio/yummytimedeli#readme"
+}
