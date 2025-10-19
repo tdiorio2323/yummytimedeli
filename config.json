@@ -1,0 +1,15 @@
+{
+  "ordering_links": {
+    "doordash": "https://www.doordash.com/store/YOUR-STORE",
+    "grubhub": "https://www.grubhub.com/restaurant/YOUR-STORE",
+    "ubereats": "https://www.ubereats.com/store/YOUR-STORE"
+  },
+  "website_url": "http://www.yummytimedelinyc.com/",
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yummy+Time+Deli+2142+Forest+Avenue+Staten+Island+NY+10303",
+  "store_email": "orders@yummytimedeli.com",
+  "social_media": {
+    "facebook": "https://www.facebook.com/yummytimedeli",
+    "instagram": "https://www.instagram.com/yummytimedeli",
+    "twitter": "https://www.twitter.com/yummytimedeli"
+  }
+}

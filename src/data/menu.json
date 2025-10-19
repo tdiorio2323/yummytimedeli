@@ -1,0 +1,207 @@
+[
+  {
+    "section": "BOAR’S HEAD SANDWICHES",
+    "desc": "Choose: Meat, Cheese w/ Lettuce & Tomato\nMeats & Cheeses: Honey Turkey, Ovengold Turkey, Classic Chicken, Buffalo Chicken, Beef Salami, Beef Bologna, American, Swiss, Muenster, Provolone, Cheddar, Pepperjack, Mozzarella",
+    "items": [
+      { "name": "Roll", "price": 8.00 },
+      { "name": "Wrap", "price": 9.00 },
+      { "name": "Hero", "price": 11.00 },
+      { "name": "Add Roast Beef or Pastrami", "price": 2.00, "isAddon": true }
+    ]
+  },
+  {
+    "section": "CHICKEN SANDWICHES",
+    "desc": "Crispy or grilled. Always fresh! Always your way!",
+    "items": [
+      { "name": "Roll", "price": 8.00 },
+      { "name": "Wrap", "price": 10.00 },
+      { "name": "Hero", "price": 12.00 },
+      { "name": "Chicken, melted American, L/T, mayo", "price": null },
+      { "name": "Chicken, melted Pepperjack, avocado, red onion, chipotle mayo", "price": null },
+      { "name": "BBQ Chicken, melted Muenster, L/T, ranch", "price": null },
+      { "name": "Buffalo Chicken, melted Cheddar, tomato, blue cheese dressing", "price": null },
+      { "name": "Honey Chipotle Chicken, melted Provolone, red onion, L/T", "price": null },
+      { "name": "Chicken, melted Mozzarella, roasted peppers", "price": null }
+    ]
+  },
+  {
+    "section": "SPECIALTY SANDWICHES",
+    "items": [
+      { "name": "Grilled Pastrami Reuben w/ melted Swiss, sauerkraut, Russian dressing on rye", "price": 10.00 },
+      { "name": "Hot Roast Beef & Gravy, sautéed onions, melted Provolone on grilled Texas toast", "price": 10.00 },
+      { "name": "Fried Flounder, tartar sauce, lettuce, tomatoes on toasted roll", "price": 10.00 },
+      { "name": "Tuna Melt on grilled rye, melted American, tomatoes", "price": 10.00 }
+    ]
+  },
+  {
+    "section": "PAT LAFRIEDA BURGER BAR",
+    "desc": "Served w/ Fries on Potato Roll",
+    "items": [
+      { "name": "Premier Signature Chopped Cheese (Beef Patty, Turkey Bacon, L/T/O, Green Pepper, Chipotle Mayo)", "price": 14.00 },
+      { "name": "6oz Fresh Burger (Lettuce, tomato, red onion, pickle, mayo, ketchup)", "price": 12.00 },
+      { "name": "Cheeseburger w/ the Works (Lettuce, tomato, red onion, pickle, mayo, ketchup)", "price": 13.00 },
+      { "name": "Smash Burger (Smashed onions, cheese, ketchup)", "price": 12.00 },
+      { "name": "Double Smash (Cheese, smashed onions, ketchup)", "price": 13.00 },
+      { "name": "Chopped Cheese (The best meat, chopped, seasoned up, cheesed up, loaded up on hero)", "price": 12.00 },
+      { "name": "Philly Cheesesteak (“Fresh” sliced ribeye steak, sautéed peppers, onions, melted American cheese on hero)", "price": 13.00 },
+      { "name": "Add Fries", "price": 4.00, "isAddon": true }
+    ]
+  },
+  {
+    "section": "APPETIZERS",
+    "items": [
+      { "name": "French Fries", "price": 4.00 },
+      { "name": "Cheese Fries", "price": 5.00 },
+      { "name": "Onion Rings", "price": 4.50 },
+      { "name": "Knish", "price": 3.00 },
+      { "name": "Beef Pattie Cheese", "price": 3.00 },
+      { "name": "Mozzarella Sticks", "price": 4.00 },
+      { "name": "Empanada", "price": 3.00 },
+      { "name": "6 Wings", "price": 6.00 },
+      { "name": "3 Tenders", "price": 6.00 }
+    ]
+  },
+  {
+    "section": "PLATTERS",
+    "items": [
+      { "name": "Chicken Fingers (4 pcs) w/ Fries, dipping sauce", "price": 10.00 },
+      { "name": "Wings & Fries (5 pcs) (Crispy, BBQ, Buffalo, or Ranch, w/ side of Blue Cheese)", "price": 10.00 },
+      { "name": "Fried Flounder (1 pc) w/ tartar sauce & coleslaw", "price": 10.00 }
+    ]
+  },
+  {
+    "section": "BREAKFAST MENU",
+    "items": [
+      { "name": "Breakfast Sandwiches (Roll or Bagel)", "price": null },
+      { "name": "Butter", "price": 2.50 },
+      { "name": "Butter & Jelly", "price": 2.75 },
+      { "name": "Cream Cheese", "price": 2.75 },
+      { "name": "CC & Jelly", "price": 3.00 },
+      { "name": "CC & Turkey Bacon", "price": 5.25 },
+      { "name": "Turkey Bacon, L/T, Mayo – Roll", "price": 6.00 },
+      { "name": "Turkey Bacon, L/T, Mayo – Hero", "price": 8.00 },
+      { "name": "Grilled Cheese, American on Texas Toast", "price": 4.00 },
+      { "name": "Add Bacon", "price": 2.00, "isAddon": true },
+      { "name": "Egg Sandwiches (All double scrambled on roll or bagel)", "price": null },
+      { "name": "Two Eggs", "price": 4.00 },
+      { "name": "Egg & Cheese", "price": 5.00 },
+      { "name": "Turkey Bacon & Eggs", "price": 6.50 },
+      { "name": "Beef Bacon or Sausage w/ Eggs & Cheese", "price": 7.50 },
+      { "name": "Egg Whites, Avocado, Tomato, Red Onions", "price": 8.00 },
+      { "name": "Egg Whites, Turkey Bacon, Tomato, Swiss", "price": 8.00 },
+      { "name": "Omelettes (Served w/ tots & toast)", "price": null },
+      { "name": "Classic Cheese (American Cheese)", "price": 8.00 },
+      { "name": "Mexican: Jalapeños, tomato, red onion, pepperjack", "price": 9.00 },
+      { "name": "Greek: Spinach, red onions, tomato, feta", "price": 10.00 },
+      { "name": "Italian: Beef sausage, peppers, onions, mozzarella", "price": 10.00 },
+      { "name": "Breakfast Platters (Served w/ butter & syrup)", "price": null },
+      { "name": "French Toast (3 pc)", "price": 5.00 },
+      { "name": "Buttermilk Pancakes (3 pc)", "price": 5.00 }
+    ]
+  },
+  {
+    "section": "COFFEE BAR",
+    "items": [
+      { "name": "Regular, Decaf, Latte, Cappuccino, Lipton Tea, Herbal Teas, Hot Chocolate (12 oz)", "price": 2.00 },
+      { "name": "Regular, Decaf, Latte, Cappuccino, Lipton Tea, Herbal Teas, Hot Chocolate (16 oz)", "price": 2.99 },
+      { "name": "Iced Coffee, Iced Latte (Small)", "price": 2.50 },
+      { "name": "Iced Coffee, Iced Latte (Medium)", "price": 2.99 },
+      { "name": "Iced Coffee, Iced Latte (Large)", "price": 9.99 }
+    ]
+  },
+  {
+    "section": "BAKED FRESH",
+    "items": [
+      { "name": "Muffins", "price": null },
+      { "name": "Danish", "price": null },
+      { "name": "Croissants", "price": null },
+      { "name": "Filled Croissant", "price": null },
+      { "name": "Turnovers", "price": null },
+      { "name": "Cookies", "price": null }
+    ]
+  },
+  {
+    "section": "LITE & HEALTHY",
+    "items": [
+      { "name": "Watermelon Cup", "price": 3.00 },
+      { "name": "Pineapple Cup", "price": 4.00 },
+      { "name": "Low Fat Yogurt Parfait", "price": 5.00 },
+      { "name": "Hot Oatmeal w/ Cinnamon, Honey & Nuts", "price": 5.00 }
+    ]
+  },
+  {
+    "section": "SIDES",
+    "items": [
+      { "name": "Tots", "price": 4.00 },
+      { "name": "Turkey Bacon (3 pcs)", "price": 3.00 },
+      { "name": "Beef Bacon (2 pcs)", "price": 3.00 },
+      { "name": "Beef Sausage (1 pc)", "price": 2.50 },
+      { "name": "1/2 Avocado", "price": 2.50 }
+    ]
+  },
+  {
+    "section": "FRESH JUICE BAR",
+    "items": [
+      { "name": "Fruit Smoothies – 20 oz", "price": 9.00 },
+      { "name": "Choose one milk: Whole, Skim, Oat", "price": null },
+      { "name": "Flavors: Mango, Blueberry, Strawberry, Banana, Pineapple, Watermelon, Chocolate, Vanilla, PB2 (Peanut Butter)", "price": null },
+      { "name": "PB2", "price": 2.00, "isAddon": true },
+      { "name": "Add banana", "price": 1.00, "isAddon": true },
+      { "name": "Protein Shakes", "price": 9.00 },
+      { "name": "Chocolate, Vanilla, PB2, Choc & PB2", "price": null },
+      { "name": "Juices on Ice – 20 oz", "price": 9.00 },
+      { "name": "Carrot, Apple & Ginger", "price": null },
+      { "name": "Spinach, Celery & Apple", "price": null },
+      { "name": "Just Carrots", "price": null },
+      { "name": "Just Celery", "price": null },
+      { "name": "Just Apples", "price": null }
+    ]
+  },
+  {
+    "section": "FRESH SALADS (Served w/ side dressing)",
+    "items": [
+      { "name": "House: Iceberg, grape tomatoes, cucumber, olives, onions", "price": 8.00 },
+      { "name": "Caesar: Romaine, lettuce, croutons, Parmesan cheese", "price": 7.00 },
+      { "name": "Greek: Spinach, red onions, grape tomatoes, olives, feta", "price": 9.00 },
+      { "name": "Cobb: Iceberg, turkey bacon, avocado, tomato, hard boiled eggs, onions", "price": 9.00 },
+      { "name": "Add Chicken", "price": 5.00, "isAddon": true },
+      { "name": "Add Avocado", "price": 2.00, "isAddon": true },
+      { "name": "Add Egg", "price": 1.00, "isAddon": true }
+    ]
+  },
+  {
+    "section": "SALADS BY LB",
+    "items": [
+      { "name": "Tunafish", "price": null },
+      { "name": "Chicken Salad", "price": null },
+      { "name": "Egg Salad", "price": null },
+      { "name": "Pasta Salad", "price": null },
+      { "name": "Cucumber Salad", "price": null },
+      { "name": "Tortellini Salad", "price": null },
+      { "name": "Antipasto Salad", "price": null },
+      { "name": "Potato", "price": null },
+      { "name": "Macaroni", "price": null },
+      { "name": "Cole Slaw", "price": null }
+    ]
+  },
+  {
+    "section": "SALAD SANDWICHES",
+    "desc": "“All Homemade” served on toast, lettuce & tomato – $8.00",
+    "items": [
+      { "name": "Tunafish – Chunk white tuna, Hellman’s mayo, celery, red onions", "price": 8.00 },
+      { "name": "Chunky Chicken Salad – Made w/ chicken breast, Hellman’s mayo, scallions, red onions, celery", "price": 8.00 },
+      { "name": "Chopped Egg Salad – Fresh hard-boiled eggs, Hellman’s mayo, salt & pepper", "price": 8.00 },
+      { "name": "Add grilled chicken or crispy cutlets", "price": 2.50, "isAddon": true }
+    ]
+  },
+  {
+    "section": "YUMMY TIME SPECIAL PACKAGES",
+    "items": [
+      { "name": "Family Sandwich (Full Loaf) - Italian Sandwich of choice w/ 2 Liter Soda", "price": 25.00 },
+      { "name": "Any (3) Hero’s + 2 Liter Soda", "price": 35.00 },
+      { "name": "Chopped Cheese Sandwich w/ Hot Wings (4), French Fries, + Can of Soda", "price": 15.00 },
+      { "name": "Any (2) Hero’s + Hot Wings (6pc.), French Fries, & 2 Liter Soda", "price": 30.00 },
+      { "name": "Any (2) Sandwiches (Rolls), Mozzarella Sticks, French Fries, & Can of Soda", "price": 18.00 }
+    ]
+  }
+]
