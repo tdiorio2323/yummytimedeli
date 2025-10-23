@@ -198,9 +198,9 @@
     "section": "YUMMY TIME SPECIAL PACKAGES",
     "items": [
       { "name": "Family Sandwich (Full Loaf) - Italian Sandwich of choice w/ 2 Liter Soda", "price": 25.00 },
-      { "name": "Any (3) Hero’s + 2 Liter Soda", "price": 35.00 },
-      { "name": "Chopped Cheese Sandwich w/ Hot Wings (4), French Fries, + Can of Soda", "price": 15.00 },
-      { "name": "Any (2) Hero’s + Hot Wings (6pc.), French Fries, & 2 Liter Soda", "price": 30.00 },
+      { "name": "Any (3) Hero's + 2 Liter Soda", "price": 35.00 },
+      { "name": "Chopped Cheese Sandwich w/ Hot Wings (4), French Fries, + Can of Soda", "price": 20.00 },
+      { "name": "Any (2) Hero's + Hot Wings (6pc.), French Fries, & 2 Liter Soda", "price": 30.00 },
       { "name": "Any (2) Sandwiches (Rolls), Mozzarella Sticks, French Fries, & Can of Soda", "price": 18.00 }
     ]
   }
